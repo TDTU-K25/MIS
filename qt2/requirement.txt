@@ -1,0 +1,20 @@
+Yêu cầu chung: Sinh viên tìm hiểu về một tình huống triển khai hệ thống thông tin hoặc công nghệ được áp dụng tại một doanh nghiệp cụ thể theo yêu cầu của giảng viên.
+
+Mỗi nhóm sinh viên sẽ được phân công 01 bài tình huống:
+
+- Nhóm thực hiện chuẩn bị 02 bài: báo cáo word (*.docx) và bài thuyết trình Powerpoint (*.pptx) và nộp cho GV qua hệ thống elearning theo thời hạn do GV quy định.
+- MS PowerPoint (từ 10 -> 20 slide) trình bày trong 10 -> 12 phút + 10 -> 12 phút hỏi đáp.
+
+Bố cục trình bày:
+
+- Giới thiệu.
+- Tóm tắt các sự việc, sự kiện quan trọng.
+- Nhận diện và phân tích vấn đề dựa trên:
+- Kiến thức trong sách vở.
+- Sự việc, sự kiện thực tế.
+- Đề ra các giải pháp.
+- Lựa chọn giải pháp.
+- Thực hiện giải pháp.
+- Rút ra bài học.
+
+Link để vào tìm các bài tập tình huống được phân công: https://drive.google.com/file/d/193jt2bpLr_UPnPUwp-2QHvh0z8Ej6pqJ/view?usp=sharing
